@@ -1,3 +1,4 @@
+// Comentário teste
 class Shenlong {
     constructor() {
         this.dragonBalls = []
